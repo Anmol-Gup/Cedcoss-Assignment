@@ -1,0 +1,28 @@
+Product response when searching by SKU
+{
+      id: '4029645868',
+      properties: {
+        createdate: '2024-10-18T09:09:53.156Z',
+        description: '<p>This is a full length jeans for women.</p>\n',
+        hs_lastmodifieddate: '2024-10-18T09:09:53.753Z',
+        hs_object_id: '4029645868',
+        name: 'CRUZER Women Regular Fit Full Length Jeans',
+        price: '1549'
+      },
+      createdAt: '2024-10-18T09:09:53.156Z',
+      updatedAt: '2024-10-18T09:09:53.753Z',
+      archived: false
+}
+
+Order response
+{
+    id: '375514584964',
+    properties: {
+      hs_createdate: '2024-10-20T11:53:23.722Z',
+      hs_lastmodifieddate: '2024-10-20T11:53:24.527Z',
+      hs_object_id: '375514584964'
+    },
+    createdAt: '2024-10-20T11:53:23.722Z',
+    updatedAt: '2024-10-20T11:53:24.527Z',
+    archived: false
+  }
