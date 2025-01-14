@@ -13,9 +13,9 @@ This project is designed to demonstrate the integration of webhooks, product man
 The project utilizes the following tools and technologies:
 
 - **Node.js**: A JavaScript runtime environment that executes JavaScript code server-side.
-- **Express.js**: A minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
+- **Express.js**: A minimal and flexible Node.js web application framework that provides robust features for web and mobile applications.
 - **Axios**: A promise-based HTTP client for the browser and Node.js, used for making HTTP requests.
-- **Multer**: This is a middleware for handling `multipart/form-data`, primarily used for uploading files.
+- **Multer**: This is a middleware for handling `multipart/form-data`, primarily for uploading files.
 - **dotenv**: A module that loads environment variables from a `.env` file into `process.env`, enhancing security by keeping sensitive data out of the codebase.
 
 ## Third-Party Platforms
